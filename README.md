@@ -6,6 +6,8 @@
 
 과정을 생각하자
 
+'S'까지 가보자고
+
 ![minzion0's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzion0&show_icons=true&theme=radical)
 
 <!--
