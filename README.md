@@ -1,4 +1,12 @@
-### Hi there 👋
+                                                                                <h1>가훈</h1>
+                                                                                
+                                                                          🐱‍🏍데이터를 신속 정확하게🐱‍🏍
+                                                                          
+                                                                          깔끔한 코드 🤷‍♀️ 새로운 시도 
+                                      
+                                                                                과정을 생각하자
+
+                                    
 
 <!--
 **Minzion0/Minzion0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
