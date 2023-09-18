@@ -1,12 +1,6 @@
 
 
-🐱‍🏍데이터를 신속 정확하게🐱‍🏍
 
-깔끔한 코드 🤷‍♀️ 새로운 시도 
-
-과정을 생각하자
-
-'S'까지 가보자고
 
 ![minzion0's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzion0&show_icons=true&theme=radical)
 
