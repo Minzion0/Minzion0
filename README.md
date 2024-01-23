@@ -13,20 +13,23 @@
 ![minzion0's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzion0&show_icons=true&theme=radical)
 
 
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/mariadb-000000?style=for-the-badge&logo=mariadb&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    <br>
-</div><br>
-</div>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+
+● Language: 
+<img src="https://img.shields.io/badge/JAVA-FCC624?style=for-the-badge">
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/>
+
+● Backend :
+<img src="https://img.shields.io/badge/Mysql-003545?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESTful_API-4053D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JPA-212121?style=for-the-badge&logo=jpa&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mybatis-DD344C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Querydsl-0285C9?style=for-the-badge&logo=querydsl&logoColor=white"/>
+
+● Other :
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 <!--
 **Minzion0/Minzion0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
